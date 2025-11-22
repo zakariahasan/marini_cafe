@@ -18,7 +18,7 @@ export function Header() {
     <header className="border-b bg-white/80 backdrop-blur">
       <div className="max-w-6xl mx-auto flex items-center justify-between px-4 py-3">
         <Link href="/" className="text-xl font-semibold tracking-tight">
-          Bean &amp; Bite
+          Marini Cafe
         </Link>
 
         <nav className="hidden md:flex items-center gap-6">

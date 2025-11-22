@@ -4,7 +4,7 @@ import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 
 export const metadata: Metadata = {
-  title: "Bean & Bite Cafe",
+  title: "Marini Cafe",
   description: "Modern cafe & restaurant with online ordering.",
 };
 

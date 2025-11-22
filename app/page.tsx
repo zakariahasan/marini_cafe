@@ -7,7 +7,7 @@ export default function HomePage() {
       <section className="grid gap-8 md:grid-cols-2 items-center">
         <div className="space-y-4">
           <h1 className="text-3xl md:text-4xl font-bold tracking-tight">
-            Fresh coffee, homemade meals, right at your fingertips.
+            Fresh coffee, homemade Breakfast, right at your fingertips.
           </h1>
           <p className="text-slate-600">
             Order your favourite dishes, customise ingredients, and choose
@@ -40,18 +40,18 @@ export default function HomePage() {
         <div className="bg-white rounded-xl shadow-sm border p-4">
           <h2 className="font-semibold mb-3">Opening Hours</h2>
           <ul className="text-sm space-y-1">
-            <li>Mon–Fri: 8:00am – 9:00pm</li>
-            <li>Sat: 9:00am – 10:00pm</li>
-            <li>Sun: 9:00am – 8:00pm</li>
+            <li>Mon–Fri: 6:00am – 5:00pm</li>
+            <li>Sat-Sun: 6:00am – 6:00pm</li>
+           
           </ul>
         </div>
         <div className="bg-white rounded-xl shadow-sm border p-4">
           <h2 className="font-semibold mb-3">Location</h2>
           <p className="text-sm text-slate-600">
-            123 Bean Street, Sydney NSW 2000
+            57 McKeon St, Maroubra NSW 2035
           </p>
           <div className="mt-3 h-40 bg-slate-200 rounded-lg flex items-center justify-center text-xs text-slate-500 overflow-hidden">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13251.379761711612!2d151.19050807637768!3d-33.86788679996282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12ae401e8b983f%3A0x5017d681632ccc0!2sSydney%20NSW%202000%2C%20Australia!5e0!3m2!1sen!2sfr!4v1763563256460!5m2!1sen!2sfr"
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3309.793263395588!2d151.256466!3d-33.946445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12b3ca0eda0ebd%3A0x7f19f60ae5471057!2sMarini%20Cafe!5e0!3m2!1sen!2sau!4v1763806345113!5m2!1sen!2sau"
                     width="600"
                     height="450"
                     style={{ border: 0 }} 
